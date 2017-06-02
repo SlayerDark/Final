@@ -1,0 +1,58 @@
+
+body{
+	background: purple;
+}
+
+#mi a{
+	color: black;
+	font-size: 50px;
+	position: absolute;top: 130px; left: 150px;
+}
+#mi img{
+	width: 13%;
+	position: absolute;top: 150px; left: 0px;
+}
+#a1{
+	color:white;
+	font-size: 30px;
+	position: absolute;top: 180px; left: 170px;
+}
+#a1 a{
+	color: blue;
+}
+
+#gh img{
+	width: 16%;
+	position: absolute;top: 350px; left: -15px;
+}
+#gh a{
+	font-size: 50px;
+	color: black;
+	position: absolute; top: 340px; left: 180px;
+}
+#a2{
+	color: white;
+	font-size: 30px;
+	position: absolute;top: 400px; left: 180px;
+}
+#a2 a{
+	color: blue;
+}
+
+#ax img{
+	width: 16%;
+	position: absolute;top: 580px; left: -15px;
+}
+#ax a{
+	color: black;
+	font-size: 50px;
+	position: absolute; top: 580px; left: 180px;
+}
+#a3{
+	color: white;
+	font-size: 30px;
+	position: absolute;top: 630px; left: 180px;
+}
+#a3 a{
+	color: blue;
+}
