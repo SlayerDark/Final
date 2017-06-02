@@ -1,0 +1,12 @@
+body{
+	background: purple;
+}
+#video video{
+	position: absolute;top: 200px; left: 250px;
+	width: 50%;
+}
+#a1{
+	color: white;
+	font-size: 30px;
+	font-style: justify;
+}
